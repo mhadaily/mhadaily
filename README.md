@@ -3,8 +3,6 @@
 
 My name is Majid Hajian and I am gald your are visiting my profile now! 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on creating free courses, sample codes and videos for Flutter/Dart especially web as well as PWA!
 - 🌱 I’m currently learning enterprise architecture and advanced algorithem 
 - 👯 I’m looking to collaborate on your projects especially making free content for developers
