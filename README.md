@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 My name is Majid Hajian and I am gald your are visiting my profile now! 
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫  How to reach me: [Twitter - @mhadaily](https://twitter.com/mhadaily) , [Youtube - @mhadaily](https://youtube.com/mhadaily), [Linkedin - @mhadaily](https://linkedin.com/in/mhadaily)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: When I code deeply, I don't even hear sounds around me! I become blind and deaf! 
--->
+
 
 Let's keep in touch. 
