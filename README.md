@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Majid Hajian and I am gald your are visiting my profile now! 
+My name is Majid Hajian and I am glad your are visiting my profile now! 
 
 - 🔭 I’m currently working on creating free courses, sample codes and videos for Flutter/Dart especially web as well as PWA!
 - 🌱 I’m currently learning enterprise architecture and advanced algorithem 
